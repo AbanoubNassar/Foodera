@@ -1,0 +1,38 @@
+nav{
+    background-color:#fff;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    border-radius: 0px;
+    border-bottom: 1px solid rgba(97, 95, 95, 0.212);
+    position: fixed !important;
+    z-index: 1000;
+}
+
+
+nav a{
+    color: #ab3550 !important;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+nav img{
+    max-width: 60%;
+    height: 100%;
+}
+
+nav #btn_nav{
+    background-color: #ab3550;
+    border: 2px solid #ab3550;
+    color: #fff !important;
+    font-weight: bold;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+nav #btn_nav:hover{
+    background-color: #fff;
+    color: #ab3550 !important;
+}

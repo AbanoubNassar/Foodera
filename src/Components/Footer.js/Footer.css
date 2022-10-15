@@ -1,0 +1,44 @@
+.footer{
+    margin-top: 100px;
+    background-color: #a82d49;
+    padding: 25px 0px;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+.footer ul{
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer ul li{
+    display: inline-block;
+    margin: 0px 30px 0 -15px;
+}
+
+.footer ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+}
+
+.footer .ul-social{
+    margin-bottom: 80px;
+}
+
+.footer .ul-social li a{
+    font-size: 25px;
+}
+
+.footer .copyright{
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: white;
+}
